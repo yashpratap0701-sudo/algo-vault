@@ -1,17 +1,11 @@
 class Solution {
-    public static int hammingWeight(int n) {
-        int a = 0;
-        int count = 0;
-        for (int i = 0; i <=31 ; i++) {
-            a = n%2;
-            n = n/2;
-            if(a==1){
-              count++;
+     public int hammingWeight(int n) {
+        int res = 0;
+        for (int i = 0; i < 32; i++) {
+            if (((n >> i) & 1) == 1) {
+                res += 1;
             }
-            
         }
-        return count;
-
-
+        return res;        
     }
 }
