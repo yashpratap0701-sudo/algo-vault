@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2543-check-if-point-is-reachable](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/2543-check-if-point-is-reachable) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
