@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0191-number-of-1-bits) |
+| [0832-flipping-an-image](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0832-flipping-an-image) |
 ## Math
 |  |
 | ------- |
@@ -39,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0137-single-number-ii) |
 | [0283-move-zeroes](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0283-move-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1572-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0283-move-zeroes) |
+| [0832-flipping-an-image](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0832-flipping-an-image) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,5 +61,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1572-matrix-diagonal-sum) |
+## Simulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
