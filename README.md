@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0191-number-of-1-bits) |
 ## Math
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0137-single-number-ii) |
 | [0283-move-zeroes](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
