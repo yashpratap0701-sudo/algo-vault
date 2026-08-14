@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0190-reverse-bits) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0029-divide-two-integers) |
 | [2543-check-if-point-is-reachable](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/2543-check-if-point-is-reachable) |
 ## Number Theory
 |  |
