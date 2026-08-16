@@ -16,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0191-number-of-1-bits) |
 | [0832-flipping-an-image](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0832-flipping-an-image) |
 | [1720-decode-xored-array](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1720-decode-xored-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Math
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0029-divide-two-integers) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2543-check-if-point-is-reachable](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/2543-check-if-point-is-reachable) |
 ## Number Theory
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1572-matrix-diagonal-sum) |
 | [1720-decode-xored-array](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1720-decode-xored-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,4 +74,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0832-flipping-an-image) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
