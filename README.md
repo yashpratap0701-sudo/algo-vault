@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0137-single-number-ii) |
+| [0198-house-robber](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0485-max-consecutive-ones) |
 | [0766-toeplitz-matrix](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0766-toeplitz-matrix) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0198-house-robber) |
 ## Greedy
 |  |
 | ------- |
