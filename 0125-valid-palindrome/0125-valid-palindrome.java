@@ -1,21 +1,35 @@
 class Solution {
-   public static boolean isPalindrome(String s) {
-        StringBuilder v = new StringBuilder();
-        for (int i = 0; i < s.length(); i++) {
-            char ch = s.charAt(i);
+    public boolean isPalindrome(String s) {
+        if(s == null || s.length() == 0) return true;
 
-            if(Character.isLetterOrDigit(ch)){
-                v.append(Character.toLowerCase(ch));
+        int left = 0;
+        int right = s.length() - 1;
 
+        while(left <= right){
+            char a = s.charAt(left);
+            char b = s.charAt(right);
+
+            if(!((a >= 'A' && a <='Z') || ( a >='0' && a <='9') || (a >= 'a' && a <= 'z') )){
+                left++;
+                continue;
             }
 
-        }
-        for(int j = 0;j<v.length()/2 ;j++){
-            if(v.charAt(j)!=v.charAt(v.length()-1-j)){
+            if(!((b >= 'A' && b <='Z') || ( b >='0' && b <='9') || (b >= 'a' && b <= 'z') )){
+                right--;
+                continue;
+            }
+
+            if((a >= 'A' && a <='Z')) a += 32;
+            if((b >= 'A' && b <='Z')) b += 32;
+
+            if(a != b){
                 return false;
             }
-        }
-        return true;
 
+            left++;
+            right--;
+        }
+
+        return true;
     }
 }
