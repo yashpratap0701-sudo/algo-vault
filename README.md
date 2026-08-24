@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0832-flipping-an-image) |
 ## Dynamic Programming
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0125-valid-palindrome) |
 | [0709-to-lower-case](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0709-to-lower-case) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1678-goal-parser-interpretation) |
