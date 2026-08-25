@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0029-divide-two-integers) |
 | [0279-perfect-squares](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0279-perfect-squares) |
+| [0556-next-greater-element-iii](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0556-next-greater-element-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2543-check-if-point-is-reachable](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/2543-check-if-point-is-reachable) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0283-move-zeroes) |
+| [0556-next-greater-element-iii](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0556-next-greater-element-iii) |
 | [0832-flipping-an-image](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0832-flipping-an-image) |
 ## Dynamic Programming
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0125-valid-palindrome) |
+| [0556-next-greater-element-iii](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0556-next-greater-element-iii) |
 | [0709-to-lower-case](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0709-to-lower-case) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1678-goal-parser-interpretation) |
