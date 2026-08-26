@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0029-divide-two-integers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0279-perfect-squares) |
 | [0556-next-greater-element-iii](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0556-next-greater-element-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0198-house-robber) |
+| [0241-different-ways-to-add-parentheses](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0279-perfect-squares) |
 ## Greedy
 |  |
@@ -118,9 +120,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0125-valid-palindrome) |
+| [0241-different-ways-to-add-parentheses](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0241-different-ways-to-add-parentheses) |
 | [0556-next-greater-element-iii](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0556-next-greater-element-iii) |
 | [0709-to-lower-case](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0709-to-lower-case) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1678-goal-parser-interpretation) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0241-different-ways-to-add-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
