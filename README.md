@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0283-move-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0556-next-greater-element-iii) |
 | [0832-flipping-an-image](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0832-flipping-an-image) |
+| [0925-long-pressed-name](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0925-long-pressed-name) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0241-different-ways-to-add-parentheses) |
 | [0556-next-greater-element-iii](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0556-next-greater-element-iii) |
 | [0709-to-lower-case](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0709-to-lower-case) |
+| [0925-long-pressed-name](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0925-long-pressed-name) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1678-goal-parser-interpretation) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
