@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0029-divide-two-integers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0279-perfect-squares) |
+| [0539-minimum-time-difference](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0556-next-greater-element-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0485-max-consecutive-ones) |
+| [0539-minimum-time-difference](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0539-minimum-time-difference) |
 | [0766-toeplitz-matrix](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1572-matrix-diagonal-sum) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0125-valid-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0241-different-ways-to-add-parentheses) |
+| [0539-minimum-time-difference](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0556-next-greater-element-iii) |
 | [0709-to-lower-case](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0709-to-lower-case) |
 | [0925-long-pressed-name](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0925-long-pressed-name) |
@@ -140,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0241-different-ways-to-add-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
