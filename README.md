@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0556-next-greater-element-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2543-check-if-point-is-reachable](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/2543-check-if-point-is-reachable) |
 ## Number Theory
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0925-long-pressed-name) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1678-goal-parser-interpretation) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Recursion
 |  |
