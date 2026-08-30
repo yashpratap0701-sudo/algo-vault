@@ -1,20 +1,19 @@
 class Solution {
-   public static int countHomogenous(String s) {
-        long sum = 0;
-        long count = 0;
-        int mod = 1000000007;
-
+    public int countHomogenous(String s) {
+        int ans = 0;
+        int currStreak = 0;
+        int MOD = (int) 1e9 + 7;
+        
         for (int i = 0; i < s.length(); i++) {
-
-            if (i > 0 && s.charAt(i) == s.charAt(i - 1)) {
-                count++;
+            if (i == 0 || s.charAt(i) == s.charAt(i - 1)) {
+                currStreak++;
             } else {
-                count = 1;
+                currStreak = 1;
             }
-
-            sum = (sum + count) % mod;
+            
+            ans = (ans + currStreak) % MOD;
         }
-
-        return (int) sum;
+        
+        return ans;
     }
 }
