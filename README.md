@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0125-valid-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0539-minimum-time-difference) |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0539-minimum-time-difference) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
