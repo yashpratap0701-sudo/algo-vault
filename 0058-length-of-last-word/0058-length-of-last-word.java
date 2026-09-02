@@ -3,15 +3,14 @@ class Solution {
     int count = 0;
 
     for (int t = s.length() - 1; t >= 0; t--) {
-
         if (s.charAt(t) != ' ') {
             count++;
         } 
         else if (count > 0) {
-            break;
+            return count;
         }
     }
 
     return count;
 }
- }
+}
