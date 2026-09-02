@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2543-check-if-point-is-reachable](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/2543-check-if-point-is-reachable) |
 ## Number Theory
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0279-perfect-squares) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 ## Greedy
 |  |
 | ------- |
