@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0832-flipping-an-image) |
+| [2390-removing-stars-from-a-string](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/2390-removing-stars-from-a-string) |
 | [3271-hash-divided-string](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/3271-hash-divided-string) |
 ## Backtracking
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1678-goal-parser-interpretation) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2390-removing-stars-from-a-string](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/2390-removing-stars-from-a-string) |
 | [3271-hash-divided-string](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/3271-hash-divided-string) |
 ## Recursion
 |  |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
