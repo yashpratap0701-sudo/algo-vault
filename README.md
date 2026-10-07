@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1720-decode-xored-array](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Two Pointers
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0832-flipping-an-image) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/2390-removing-stars-from-a-string) |
 | [3271-hash-divided-string](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/3271-hash-divided-string) |
 ## Backtracking
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0225-implement-stack-using-queues) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -177,4 +180,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0225-implement-stack-using-queues) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
