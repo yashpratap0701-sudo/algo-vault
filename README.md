@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Stack
 |  |
 | ------- |
@@ -176,9 +177,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0225-implement-stack-using-queues) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0225-implement-stack-using-queues) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Counting
+|  |
+| ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 <!---LeetCode Topics End-->
