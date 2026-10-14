@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0539-minimum-time-difference) |
 | [0766-toeplitz-matrix](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0832-flipping-an-image) |
+| [1472-design-browser-history](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1472-design-browser-history) |
 | [1572-matrix-diagonal-sum](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1572-matrix-diagonal-sum) |
 | [1598-crawler-log-folder](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1598-crawler-log-folder) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0225-implement-stack-using-queues) |
+| [1472-design-browser-history](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1472-design-browser-history) |
 | [1598-crawler-log-folder](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/2390-removing-stars-from-a-string) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0225-implement-stack-using-queues) |
+| [1472-design-browser-history](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1472-design-browser-history) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Queue
 |  |
@@ -194,5 +197,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [1472-design-browser-history](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1472-design-browser-history) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
