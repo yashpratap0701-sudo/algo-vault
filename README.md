@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1572-matrix-diagonal-sum) |
+| [1598-crawler-log-folder](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1598-crawler-log-folder) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1720-decode-xored-array](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1720-decode-xored-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0556-next-greater-element-iii) |
 | [0709-to-lower-case](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0709-to-lower-case) |
 | [0925-long-pressed-name](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0925-long-pressed-name) |
+| [1598-crawler-log-folder](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1598-crawler-log-folder) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1678-goal-parser-interpretation) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1759-count-number-of-homogenous-substrings) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/0225-implement-stack-using-queues) |
+| [1598-crawler-log-folder](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/yashpratap0701-sudo/algo-vault/tree/master/2390-removing-stars-from-a-string) |
 ## Design
